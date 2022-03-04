@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.01.00">
+<objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{b425ab31-4574-4af9-beba-b11f4dd816d4}">
 		<relationship name="projectSettings">
 			<destination>{30e06eb7-ac3f-45a9-9353-83fbcb4e094f}</destination>
