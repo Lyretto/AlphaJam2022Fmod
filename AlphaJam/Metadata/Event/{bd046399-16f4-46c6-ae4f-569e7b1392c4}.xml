@@ -5,7 +5,7 @@
 			<value>Wand_hochfahren</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{6fa7624b-1338-40f5-9645-997e3ac06939}</destination>
@@ -90,7 +90,11 @@
 			<destination>{9209adf0-49ba-4280-9348-e8b6f0c18e66}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{239c5cc6-b299-4dcd-ba90-29a67b72c808}" />
+	<object class="MultiSound" id="{239c5cc6-b299-4dcd-ba90-29a67b72c808}">
+		<relationship name="sounds">
+			<destination>{f08f1611-72bc-4248-9305-ee8611d529f4}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{c864abdf-15c3-437d-8ba0-9a6625c290ba}">
 		<relationship name="effects">
 			<destination>{46e57b1c-b5de-4955-b480-648c966375dd}</destination>
@@ -117,6 +121,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7e49618c-c5e9-4686-be5a-59f8de7ab7ee}" />
+	<object class="SingleSound" id="{f08f1611-72bc-4248-9305-ee8611d529f4}">
+		<relationship name="audioFile">
+			<destination>{c0eb88ae-fbe3-493a-805d-3b5b2b50a31f}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{46e57b1c-b5de-4955-b480-648c966375dd}" />
 	<object class="MixerBusEffectChain" id="{a44bfa5c-278c-4017-aec0-f5a2f75c451c}">
 		<relationship name="effects">
