@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e931a20f-0a1b-4ddb-99e9-41471fa86d09}">
+		<property name="assetPath">
+			<value>220305_AlphaSFX_ZugbrueckeRunter.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.9399319727891156</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c46774f-b6e8-44c7-98ad-4af569cce65a}</destination>
+		</relationship>
+	</object>
+</objects>
