@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{300573f2-d7b1-4017-844e-74e1497648e0}">
+		<property name="assetPath">
+			<value>Wand_runterfahren.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.3653741496598641</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c46774f-b6e8-44c7-98ad-4af569cce65a}</destination>
+		</relationship>
+	</object>
+</objects>
