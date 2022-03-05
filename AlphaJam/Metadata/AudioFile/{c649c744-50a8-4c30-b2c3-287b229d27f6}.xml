@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c649c744-50a8-4c30-b2c3-287b229d27f6}">
+		<property name="assetPath">
+			<value>220305_AlphaSFX_Possess.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.1603628117913831</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c46774f-b6e8-44c7-98ad-4af569cce65a}</destination>
+		</relationship>
+	</object>
+</objects>
