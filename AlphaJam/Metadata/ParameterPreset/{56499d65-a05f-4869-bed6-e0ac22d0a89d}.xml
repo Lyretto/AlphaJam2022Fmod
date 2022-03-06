@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{56499d65-a05f-4869-bed6-e0ac22d0a89d}">
+		<property name="name">
+			<value>BrueckePosition</value>
+		</property>
+		<relationship name="folder">
+			<destination>{15f5961f-444b-40c8-a9d4-d16c2c50f5d2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3ebe6949-fda7-4560-b51c-737b8ee4c461}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3ebe6949-fda7-4560-b51c-737b8ee4c461}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

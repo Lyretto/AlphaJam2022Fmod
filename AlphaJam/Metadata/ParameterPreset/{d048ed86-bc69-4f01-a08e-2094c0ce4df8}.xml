@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d048ed86-bc69-4f01-a08e-2094c0ce4df8}">
+		<property name="name">
+			<value>BrueckeDownUp</value>
+		</property>
+		<relationship name="folder">
+			<destination>{15f5961f-444b-40c8-a9d4-d16c2c50f5d2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e768169c-20b5-463b-9c6d-d51a545d6d6d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e768169c-20b5-463b-9c6d-d51a545d6d6d}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
