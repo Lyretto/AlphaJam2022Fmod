@@ -5,7 +5,7 @@
 			<value>Push</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{6fa7624b-1338-40f5-9645-997e3ac06939}</destination>
@@ -157,9 +157,18 @@
 	<object class="MixerBusEffectChain" id="{71a22c89-3cd4-46c6-9a51-75bf98699d5c}">
 		<relationship name="effects">
 			<destination>{816b4acf-c7da-4ec4-a1f9-c71e5bc0f6e7}</destination>
+			<destination>{a5f03158-3b19-418a-9c6e-48b073fc860e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ff3481f5-4a85-4c10-9717-de4e4f837f92}" />
 	<object class="MixerBusFader" id="{f0a575dc-77b4-4cf5-8628-8b750722f031}" />
 	<object class="MixerBusFader" id="{816b4acf-c7da-4ec4-a1f9-c71e5bc0f6e7}" />
+	<object class="SpatialiserEffect" id="{a5f03158-3b19-418a-9c6e-48b073fc860e}">
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>0.100000001</value>
+		</property>
+	</object>
 </objects>
