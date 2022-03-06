@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b0e2d8cb-70d6-423b-917b-aff23fe9ffbd}">
+		<property name="assetPath">
+			<value>02_Knight_Movement.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47115646258503402</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3c46774f-b6e8-44c7-98ad-4af569cce65a}</destination>
+		</relationship>
+	</object>
+</objects>
