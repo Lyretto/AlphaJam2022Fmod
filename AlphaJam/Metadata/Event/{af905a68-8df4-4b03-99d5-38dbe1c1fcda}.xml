@@ -32,7 +32,7 @@
 			<destination>{7b97efc0-1505-40e2-bcdd-903f1d5d9fda}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{9f6ab0c8-4843-49d4-9760-2b83361c4d9c}</destination>
+			<destination>{718852f3-6745-4123-ab8c-094ec4bd0d85}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{28055cd3-5673-47e4-8d65-dba7f2666bf9}">
@@ -53,7 +53,7 @@
 			<destination>{4b858f35-8626-4edf-8905-e9bbdbca80d1}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{a68ff67a-273d-49a2-a991-f98556f9255f}</destination>
+			<destination>{ffbd1158-bbb5-4c3a-ba4a-799258a188f1}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{bf3175dc-2367-4907-8065-5b932e7ff19f}" />
